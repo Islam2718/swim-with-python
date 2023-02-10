@@ -12,6 +12,5 @@ mycursor = mydb.cursor()
 mycursor.execute("SELECT * FROM categories")
 
 myresult = mycursor.fetchall()
-print(myresult)
-# for x in myresult:
-#  print(x)
+for x in myresult:
+    print(x[1])

@@ -1,0 +1,10 @@
+Python Checklist for Beginner
+---------------------------------------
+
+1. Installation & Instroduction
+2. 
+3. Variables & Math Operatitors
+4. if-else 
+5. while Loop
+6. For Loop 
+7. 
