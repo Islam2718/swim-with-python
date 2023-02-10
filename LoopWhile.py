@@ -30,7 +30,7 @@
 #         print(str(i) + " Is Odd")
 #     i += 1
 
-# print even & Odd between two number
+# print even & Odd between two number using keyboard input
 fromStart = int(input("Enter Start Value:"))
 toEnd = int(input("Enter End Value: "))
 while fromStart <= toEnd:
