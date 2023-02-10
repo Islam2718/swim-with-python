@@ -1,10 +1,16 @@
 Python Checklist for Beginner
 ---------------------------------------
 
-1. Installation & Instroduction
-2. 
-3. Variables & Math Operatitors
-4. if-else 
-5. while Loop
-6. For Loop 
-7. 
+___Installation & Instroduction
+___Printing with python
+___Data types in python
+___Conversion with python 
+___Arithmatic operation with python
+___Variables & Math Operatitors
+___if-else condition 
+___while Loop
+___For Loop 
+___Function
+___Function with default parameter 
+___Function with parameter
+___OOP: Class Method - User Login example 
