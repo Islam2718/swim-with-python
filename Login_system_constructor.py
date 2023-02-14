@@ -1,3 +1,5 @@
+# OOP - Login system with constructor method
+
 class User:
     name = ""
     email = ""

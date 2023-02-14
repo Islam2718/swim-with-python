@@ -1,3 +1,5 @@
+# OOP - Login system
+
 class User:
     name = ""
     email = ""
@@ -27,6 +29,7 @@ class User:
     def profile(self):
         if self.isLoggedIn():
             print("Your Username: ", self.name, " & Email: ", self.email)
+            input("")
         else:
             print("User is not Logged in !")
 
